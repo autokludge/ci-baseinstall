@@ -1,0 +1,16 @@
+{
+	"folders":
+	[
+		{
+			"path": "/C/testsite"
+		},
+        {
+            "path": "/C/testsite/application",
+            "name": "->application"
+        },
+        {
+            "path": "/C/testsite/application/modules",
+            "name": "->MODULES"
+        }
+	]
+}
